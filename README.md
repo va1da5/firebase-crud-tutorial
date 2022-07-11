@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Firebase CRUD Test Drive
+
+The repo stores a basic CRUD application meant to familiarize with [Firebase](https://firebase.google.com/) functionality.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +72,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## References
+
+- [CRUD Tutorial Using React + Firebase | Firebase 9 and Firestore Tutorial](https://www.youtube.com/watch?v=jCY6DH8F4oc&t=851s&ab_channel=PedroTech)
